@@ -16,7 +16,7 @@ It is made up of three main pieces:
 
 The cloud portions of this application (Slimer and Calavera) are hosted in Azure.
 
-For storage SQL is being used.
+For storage [SQL](https://github.com/SpookyWitchcraft/Sql) is being used.
 
 For CI/CD GitHub Actions is being leveraged.
 
