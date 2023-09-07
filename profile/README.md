@@ -10,7 +10,7 @@ It is made up of three main pieces:
 
 * [BabaYaga](https://github.com/SpookyWitchcraft/BabaYaga) - The bot's application code written in F#
 * [Slimer](https://github.com/SpookyWitchcraft/Slimer) - A web API for the bot to consume
-* [Calavera](https://github.com/SpookyWitchcraft/Slimer) - A web UI to provide maintenance
+* [Calavera](https://github.com/SpookyWitchcraft/Calavera) - A web UI to provide maintenance
 
 ### Additional Details
 
