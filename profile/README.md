@@ -2,6 +2,7 @@
 
 ### Build Status
 Slimer: ![Slimer status](https://github.com/spookywitchcraft/slimer/actions/workflows/deploy.yml/badge.svg?event=push)
+
 Calavera: ![Calavera status](https://github.com/spookywitchcraft/calavera/actions/workflows/azure-static-web-apps-delightful-grass-00084410f.yml/badge.svg?event=push)
 
 ### What's this all about?
