@@ -1,5 +1,8 @@
 ## Welcome to the Spooky Witchcraft Project!
 
+### Build Status
+[Slimer: ](https://github.com/spookywitchcraft/slimer/actions/workflows/deploy.yml/badge.svg?event=push)
+
 ### What's this all about?
 
 This is the organization belonging to a for-fun project in active development called Spooky Witchraft!
